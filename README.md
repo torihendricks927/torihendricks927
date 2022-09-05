@@ -17,7 +17,7 @@
 ---
   
 ###  About Me : 
-  :woman_technologist: I am a Junior Full Stack Software Engineer for Data Security/Cybersecurity
+  :woman_technologist: I am a Junior Full Stack Software Engineer for Data Security/Cybersecurity.
   
 
 🔭 I’m currently working at Porsche Digital contributiong to frontend and backend for building secure applications.
@@ -28,7 +28,7 @@
   
 🤔 Outside of work, I am currently studying for the AWS Certified Developer Certification Exam. 
   
-😄 In my spare time, I enjoy reading, hiking, being on the lake, training with my Australian Shepherd Lady, and watching any Sci-Fi series (currently on House of the Dragon.) 🐉
+😄 In my spare time, I enjoy reading, hiking, being on the lake, training with my Australian Shepherd Lady, and watching any Sci-Fi series (currently on House of the Dragon 🐉 ).
   
 ⚡ Fun fact: I have a history of 5+ years in the healthcare field running a retinal surgery center 👁️‍. I had begun to enjoy the technology side of my work using Nextech, Citrix, Epic, Zeiss, Heidelberg, and Optos so decided to switch career paths into the world of technology with programming and analytics.
 
