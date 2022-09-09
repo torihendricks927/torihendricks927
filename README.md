@@ -17,7 +17,7 @@
 ---
   
 ###  About Me : 
-  :woman_technologist: I am a Junior Full Stack Software Engineer for Data Security/Cybersecurity.
+  :woman_technologist: I am a Junior Full Stack Software Engineer Intern for Data Security/Cybersecurity.
   
 
 🔭 I’m currently working at Porsche Digital contributiong to frontend and backend for building secure applications.
