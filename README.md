@@ -22,15 +22,15 @@
 
 🔭 I’m currently working at Porsche Digital contributiong to frontend and backend for building secure applications.
   
-📖  I have a Bachelor's in Science, a Graduate Degree in Physiology, and a recent Coding Bootcamp Graduate from Georgia Institute of Technology.
+📖  I have a Bachelor's in Science, a Graduate Degree in Physiology, a Coding Bootcamp Graduate from Georgia Institute of Technology, and have recently received my AWS Cloud Practitioner Certification.
   
-🌱 I’m currently learning Typescript, NextJS, React, and AWS Services. 
+🌱 I’m currently learning Security+, Typescript, NextJS, React, and AWS Services. 
   
-🤔 Outside of work, I am currently studying for the AWS Certified Developer Certification Exam. 
+🤔 Outside of work, I am currently studying for Security+ and the CISSP exam. 
   
-😄 In my spare time, I enjoy reading, hiking, being on the lake, training with my Australian Shepherd Lady, and watching any Sci-Fi series (currently on House of the Dragon 🐉 ).
+😄 In my spare time, I enjoy reading, hiking, being on the lake, training with my Australian Shepherd Lady, and watching any Sci-Fi series.
   
-⚡ Fun fact: I have a history of 5+ years in the healthcare field running a retinal surgery center 👁️‍. I had begun to enjoy the technology side of my work using Nextech, Citrix, Epic, Zeiss, Heidelberg, and Optos so decided to switch career paths into the world of technology with programming and analytics.
+⚡ Fun fact: I have a history of 5+ years in the healthcare field running a retinal surgery center 👁️‍. I had begun to enjoy the technology side of my work using Nextech, Citrix, Epic, Zeiss, Heidelberg, and Optos so decided to switch career paths into the world of programming and analytics.
 
   ---
   
