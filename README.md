@@ -17,20 +17,20 @@
 ---
   
 ###  About Me : 
-  :woman_technologist: I am a Junior Software Engineer for Data Security/Cybersecurity.
+  :woman_technologist: I am a Product Security Expert focused on building secure development lifecycles, security auditor, and security architecture.
   
 
-🔭 I’m currently working at Porsche Digital contributiong to frontend and backend for building secure applications.
+🔭 I’m currently working at Porsche Digital contributiong to security audits and architecture designs, building out an sSDLC, building ISMS policies and procedures, conducting threat analysis workshops, and working on GRC/risk management.
   
-📖  I have a Bachelor's in Science, a Graduate Degree in Physiology, a Coding Bootcamp Graduate from Georgia Institute of Technology, and have recently received my AWS Cloud Practitioner Certification.
+📖  I have a Bachelor's in Science, a Graduate Degree in Physiology, a Coding Bootcamp Graduate from Georgia Institute of Technology, and have received my Security+ and AWS Security Certification.
   
-🌱 I’m currently learning Security+, Typescript, NextJS, React, and AWS Services. 
+🌱 I’m currently learning pentesting skills, ISMS and ISO27001 certification, and GRC. 
   
-🤔 Outside of work, I am currently studying for Security+ and the CISSP exam. 
+🤔 Outside of work, I am currently studying for Pentest+ and the CISSP exam. 
   
 😄 In my spare time, I enjoy reading, hiking, being on the lake, training with my Australian Shepherd Lady, and watching any Sci-Fi series.
   
-⚡ Fun fact: I have a history of 5+ years in the healthcare field running a retinal surgery center 👁️‍. I had begun to enjoy the technology side of my work using Nextech, Citrix, Epic, Zeiss, Heidelberg, and Optos so decided to switch career paths into the world of programming and analytics.
+⚡ Fun fact: I have a history of 5+ years in the healthcare field running a retinal surgery center 👁️‍. I had begun to enjoy the technology side of my work using Nextech, Citrix, Epic, Zeiss, Heidelberg, and Optos so decided to switch career paths into the world of technology.
 
   ---
   
@@ -43,10 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
   ---
